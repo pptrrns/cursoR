@@ -1,5 +1,5 @@
 ######
-# Clase 1
+# clase_01
 
 #####
 ## Creación de variables

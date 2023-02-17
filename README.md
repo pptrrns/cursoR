@@ -22,19 +22,17 @@ editor RStudio. Descarga y manipulación de bases de datos.
 
 ### Sesión 3
 
-- *Objetivos*: sesión de repaso y dudas. Introducción a $\LaTeX$ por medio de ``Overleaf`` y ejercicio de combinación `R` + $\LaTeX$.
-
-*Temas revisados en* ``clase_03``:
+- *Objetivos*: sesión de repaso y dudas. Introducción a $\LaTeX$ por medio de ``Overleaf``.
 
 ### Sesión 4
 
 - *Objetivos*: elaborar visualizaciones a partir de bases de datos
 utilizando el paquete ``ggplot2``. Elaboración de gráficas de distinto tipo en función del tipo de datos disponibles.
 
-*Temas revisados en* ``clase_04``:
+*Temas revisados en* ``clase_04``: visualización de datos utilizando ``ggplot2`` (``geom_point()``, ``geom_line()``, ``facet_wrap()``, ``geom_bar()`` ) y modelos de regresiones lineales.
 
 ## Carpetas
 
-- ``/clases`` contiene el código y meterial revisado en las sesiones. El documento ``clase_01`` corresponde a la Sesión 1 y así sucesivamente.
+- ``/clases`` contiene el código y meterial revisado en las sesiones. El documento ``clase_01`` corresponde a la Sesión 1 y así sucesivamente. No hay documento de la clase ``clase_03`` 
 - ``/data``contiene las bases de datos utilizadas para los ejercicios en cada una de las sesiones.
 - ``/referencias`` contiene manterial de interés para complementar el curso.
